@@ -46,6 +46,7 @@ A non-exhaustive list of dank projects.
 * [ProVotes](https://www.spigotmc.org/resources/provotes.23672/) - Premium in
   the [least premium way possible](https://github.com/kennytv/list-of-shame/issues/77).
 * Purpur - What if someone made a fork instead of just creating plugins doing the same things?
+* Purpur, again - "viashit, viagarbage and bedrock hackery" ~YouHaveTrouble
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - Causes more lag than it removes and doesn't even know its own name.
 * [gitmoji](https://github.com/carloscuesta/gitmoji) - Using emojis on commit messages provides an easy way of
   identifying the purpose or intention of a commit with only looking at the emojis used... as long as you can learn
